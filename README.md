@@ -30,7 +30,6 @@ To build this layout run:
 ./build-manuscript-style.sh
 ```
 
-(* Excerpts from the styling guide. https://graduate-and-international.uark.edu/_resources/forms/thesis-dissertation-guide.pdf)
 
 This builds the main-manuscript-style.tex file and setups the front matter sections under the assumption no chapters are a stand-alone work.
 
@@ -47,3 +46,6 @@ You may clean all the files generated from building with the clean script run as
 
 
 This template set was adapted from the template available [here](https://github.com/josephcarmack/uark_dissertaion_latex_template). This repo was the source for all published paper style templates and was modified to include a manuscript style.
+
+
+(* Excerpts from the styling guide. https://graduate-and-international.uark.edu/_resources/forms/thesis-dissertation-guide.pdf)
